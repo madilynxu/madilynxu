@@ -24,18 +24,13 @@
 
 ### 🎓  Education
 #### University of California, Davis
-Master of Science in Business Analytics (STEM)
-
-Aug 2024 – Aug 2025
+Master of Science in Business Analytics (Aug 2025)
 
 #### Shanghai University of Finance and Economics
-Bachelor of Economics in Investment with a Minor in Law
-
-Sept 2020 – Jun 2024
+Bachelor of Economics in Investment with a Minor in Law (2024)
 
 ---
 
 ### 🤝  Let's Connect!
-Feel free to connect with me on LinkedIn!
-
+I’m always eager to learn, collaborate, and share insights with fellow professionals in data analytics. Feel free to connect with me on LinkedIn or reach out to me via email!
 
